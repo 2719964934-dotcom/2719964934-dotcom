@@ -10,9 +10,9 @@
 
 ### About me · 关于我
 
-Hi, I'm **ZeKaiChen (陈泽楷)**, an undergraduate at the **School of Software Engineering, Sun Yat-sen University**. I am conducting undergraduate research at the [**Intelligence Science and System Lab (iSEE)**](https://www.isee-ai.cn/), supervised by [**Prof. Wei-Shi Zheng**](https://www.isee-ai.cn/~zhwshi/).
+Hi, I'm **ZeKaiChen (Jacky / 陈泽楷)**, an undergraduate at the **School of Software Engineering, Sun Yat-sen University**. I am conducting undergraduate research at the [**Intelligence Science and System Lab (iSEE)**](https://www.isee-ai.cn/), supervised by [**Prof. Wei-Shi Zheng**](https://www.isee-ai.cn/~zhwshi/).
 
-你好，我是 **陈泽楷（ZeKaiChen）**，中山大学 **软件工程学院2025级本科生**，目前在 [**智能科学与系统实验室（iSEE）**](https://www.isee-ai.cn/)参与本科生科研，导师为 [**郑伟诗教授**](https://www.isee-ai.cn/~zhwshi/)。
+你好，我是 **陈泽楷（ZeKaiChen / Jacky）**，中山大学 **软件工程学院2025级本科生**，目前在 [**智能科学与系统实验室（iSEE）**](https://www.isee-ai.cn/)参与本科生科研，导师为 [**郑伟诗教授**](https://www.isee-ai.cn/~zhwshi/)。
 
 My current research focuses on **3D human motion generation** and **human–object interaction (HOI)**. I am working on model improvements and experimental evaluation, exploring how to better model the relationship between human movement and object behavior.
 
