@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
+<title id="title">Three curious robots</title><desc id="desc">A small sensing robot, a walking humanoid, and a wheeled robot with a gripper. Decorative illustrations for an interest in embodied AI.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0c1728"/><stop offset="1" stop-color="#15182c"/></linearGradient>
+<linearGradient id="body" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d4edf2"/><stop offset="1" stop-color="#7a9dbb"/></linearGradient>
+<linearGradient id="cyan" x2="1" y2="1"><stop stop-color="#8bf1e4"/><stop offset="1" stop-color="#4eb4cd"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#426b92" stop-opacity=".22"/><stop offset="1" stop-color="#426b92" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="240" rx="12" fill="url(#bg)"/>
+<ellipse cx="600" cy="125" rx="590" ry="160" fill="url(#glow)"/>
+<g fill="#aac8ed" opacity=".3"><circle cx="62" cy="44" r="1"/><circle cx="312" cy="28" r="1"/><circle cx="419" cy="66" r="1"/><circle cx="700" cy="32" r="1"/><circle cx="828" cy="65" r="1"/><circle cx="1130" cy="46" r="1"/><circle cx="1085" cy="158" r="1"/></g>
+<path d="M78 190H1122" stroke="#8cb4db" stroke-opacity=".12"/>
+<g transform="translate(235 20)">
+<ellipse cx="0" cy="169" rx="63" ry="7" fill="#010810" opacity=".65"/>
+<path d="M0 18V7" stroke="#8bcbd8" stroke-width="4"/><circle cy="5" r="5" fill="#7ae7d8"/>
+<rect x="-47" y="24" width="94" height="66" rx="24" fill="url(#body)"/>
+<rect x="-38" y="37" width="76" height="38" rx="15" fill="#14253b"/>
+<rect x="-26" y="48" width="12" height="14" rx="5" fill="#7de6e3"/><rect x="14" y="48" width="12" height="14" rx="5" fill="#7de6e3"/>
+<rect x="-28" y="98" width="56" height="47" rx="17" fill="url(#body)"/>
+<rect x="-15" y="108" width="30" height="5" rx="2.5" fill="#426d8d"/>
+<circle cx="0" cy="127" r="5" fill="#6fe0d9"/>
+<path d="M-35 112L-55 93M35 112L58 99L71 69" fill="none" stroke="#729ab4" stroke-width="11" stroke-linecap="round"/>
+<circle cx="71" cy="65" r="8" fill="url(#body)"/>
+<path d="M-15 149V163M15 149V163" stroke="#7b9bb8" stroke-width="10" stroke-linecap="round"/>
+<path d="M-27 168H-9M9 168H27" stroke="#b4d0df" stroke-width="9" stroke-linecap="round"/>
+<path d="M84 42l5-8m3 20l9-2" stroke="#7ae7d8" stroke-width="2" stroke-linecap="round"/>
+</g>
+<g transform="translate(600 16)">
+<ellipse cx="0" cy="173" rx="66" ry="7" fill="#010810" opacity=".65"/>
+<path d="M-11 115L-24 145L-40 168M14 115L35 137L27 165" fill="none" stroke="#90b3ce" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M-45 174H-28M21 171H42" stroke="#bdd5e2" stroke-width="10" stroke-linecap="round"/>
+<rect x="-26" y="64" width="55" height="59" rx="19" fill="url(#body)" transform="rotate(-7)"/>
+<rect x="-15" y="77" width="32" height="21" rx="7" fill="#13263d"/>
+<path d="M-7 88H-2L2 81L8 93L12 88" fill="none" stroke="#72dfdb" stroke-width="2"/>
+<path d="M-28 78L-52 99L-63 85M29 76L51 56L67 61" fill="none" stroke="#86a8c1" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="-63" cy="82" r="7" fill="#bfd9e4"/><circle cx="70" cy="62" r="7" fill="#bfd9e4"/>
+<rect x="-34" y="15" width="69" height="44" rx="18" fill="url(#body)" transform="rotate(-7)"/>
+<rect x="-26" y="25" width="53" height="22" rx="10" fill="#14253b" transform="rotate(-7)"/>
+<circle cx="-12" cy="35" r="4" fill="#83eee3"/><circle cx="13" cy="32" r="4" fill="#83eee3"/>
+<path d="M0 12L-3 3" stroke="#9ccbd8" stroke-width="3"/><circle cx="-3" cy="2" r="4" fill="#a8a2ef"/>
+</g>
+<g transform="translate(966 23)">
+<ellipse cx="0" cy="166" rx="75" ry="7" fill="#010810" opacity=".65"/>
+<rect x="-58" y="128" width="116" height="30" rx="15" fill="#3c5671"/>
+<rect x="-48" y="114" width="96" height="33" rx="12" fill="url(#body)"/>
+<circle cx="-36" cy="152" r="13" fill="#16263c" stroke="#7598b5" stroke-width="5"/><circle cx="36" cy="152" r="13" fill="#16263c" stroke="#7598b5" stroke-width="5"/>
+<path d="M0 114V78" stroke="#8fb0c8" stroke-width="10"/>
+<rect x="-34" y="36" width="68" height="46" rx="15" fill="url(#body)"/>
+<rect x="-27" y="45" width="54" height="25" rx="9" fill="#14253b"/>
+<circle cx="-12" cy="57" r="5" fill="#81e7e1"/><circle cx="12" cy="57" r="5" fill="#81e7e1"/>
+<path d="M-30 115L-58 91L-45 63" fill="none" stroke="#8eacc7" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M-45 60L-57 51M-45 60L-34 48" stroke="#afccde" stroke-width="6" stroke-linecap="round"/>
+<rect x="-65" y="26" width="28" height="24" rx="3" fill="#9d99e4" opacity=".9" transform="rotate(-13 -51 38)"/>
+<path d="M38 118L61 101L65 84" fill="none" stroke="#8eacc7" stroke-width="9" stroke-linecap="round"/>
+<circle cx="66" cy="79" r="7" fill="url(#body)"/>
+</g>
+<g fill="#a9bed2" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="3" text-anchor="middle"><text x="235" y="222">PERCEIVE</text><text x="600" y="222">ACT</text><text x="966" y="222">INTERACT</text></g>
+</svg>
